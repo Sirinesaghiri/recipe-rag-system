@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ChromaDB (local database)
+chroma_db/
+
+# Large datasets (optional)
+recipes_data.csv
